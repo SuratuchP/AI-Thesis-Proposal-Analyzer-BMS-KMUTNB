@@ -1,0 +1,5 @@
+{
+  "name": "AI Project Proposal Analyzer",
+  "description": "An application to analyze student project proposals using AI. Upload a PDF of a project proposal to receive feedback on its strengths, areas for improvement, and a preliminary score based on key criteria.",
+  "requestFramePermissions": []
+}
